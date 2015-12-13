@@ -1,0 +1,3 @@
+C:\SecondGame2016\KinectorsLibrary\obj\Debug\KinectorsLibrary.csprojResolveAssemblyReference.cache
+C:\SecondGame2016\KinectorsLibrary\obj\Debug\Interop.KinectManagement.dll
+C:\SecondGame2016\KinectorsLibrary\obj\Debug\KinectorsLibrary.csproj.ResolveComReference.cache
